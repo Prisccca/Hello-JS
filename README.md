@@ -1,2 +1,2 @@
 # Hello-JS
-Hello JS on Repli.com
+Hello JS on Replit.com
